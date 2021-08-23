@@ -7,7 +7,7 @@
 Dans le même fichier.
 
 Il s'agit du cas de cohabitation le plus poussé.
-Je subodore des problèmes avec des methodes d'extensions qui ne permettrait pas d'utiliser des alias de `namespace`.
+Je subodore des problèmes avec des methodes d'extensions qui ne permettraient pas d'utiliser des alias de `namespace`.
 
 -----
 
